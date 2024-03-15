@@ -1,4 +1,4 @@
-<img src="https://m.gjcdn.net/user-avatar/200/4601612-pqiv8mds-v4.webp" style="width:100px;">
+<img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" style="width:100px;">
 
 # ¡Hey Hola, soy MrCat! 🐱✨
 
