@@ -2,7 +2,7 @@
 
 # ¡Hey Hola, soy MrCat! 🐱✨
 
-¡Bienvenido/a a mi perfil! Soy Elvin Mendoza, también conocido como MrCat, un apasionado desarrollador de videojuegos y programador backend. Aquí encontrarás un poco más sobre mí y mis proyectos. ¡Echa un vistazo!
+¡Bienvenido/a a mi perfil! Soy Elvin Mendoza, también conocido como MrCat, un apasionado desarrollador de videojuegos y programador web (backend). Aquí encontrarás un poco más sobre mí y mis proyectos. ¡Echa un vistazo!
 
 Me encanta en el mundo del desarrollo de videojuegos y todo lo relacionado con la tecnología.
 Una meta, una sola oportunidad y siempre alegre hasta el final.
@@ -11,9 +11,9 @@ Una meta, una sola oportunidad y siempre alegre hasta el final.
 
 ## Redes Sociales:
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/>](https://www.instagram.com/mrcat_86/?igshid=ZmZhODViOGI%3D) 
-[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/2560px-Twitter_bird_logo_2012.svg.png" width="30"/>](https://twitter.com/MrCat_86?t=ptSJqimSeIwxE7Ku56ywNg&s=09) 
-[<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" width="30"/>](https://bio.link/mrcat)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30"/>](https://www.instagram.com/mrcat_86/?igshid=ZmZhODViOGI%3D) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" width="30"/>](https://twitter.com/MrCat_86?t=ptSJqimSeIwxE7Ku56ywNg&s=09) 
+[<img src="[https://image.flaticon.com/icons/png/512/1384/1384060.png](https://images.vexels.com/media/users/3/212863/isolated/preview/9513538588e12bfc64b69c038b20d230-signo-mas-signo-de-icono-de-circulo.png)https://images.vexels.com/media/users/3/212863/isolated/preview/9513538588e12bfc64b69c038b20d230-signo-mas-signo-de-icono-de-circulo.png" width="30"/>](https://bio.link/mrcat)
 
 ## Acerca de mí:
 -  Mexicano 🇲🇽
