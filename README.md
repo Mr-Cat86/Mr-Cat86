@@ -22,6 +22,6 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/3114/3114824.png" width="30"/>](https://bio.link/mrcat)
 
 ## Acerca de mí:
--  Mexicano 🇲🇽
+-  Mexicano 😼
 -  Backend Developer 🖥️
 -  Correo: mrcatgames.86@gmail.com ✉️
