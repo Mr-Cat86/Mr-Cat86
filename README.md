@@ -14,9 +14,6 @@
 "**Young blood made of gold, a mind you can't control**" - *Diviners - Feelings* ✨☁️🎡
 
 
-
-
-
 ## Redes Sociales:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30"/>](https://www.instagram.com/mrcat_86/?igshid=ZmZhODViOGI%3D) 
@@ -24,15 +21,12 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/3114/3114824.png" width="30"/>](https://bio.link/mrcat)
 
 
-
-
-
 ## Acerca de mí:
 -  Mexicano 😼
 -  Backend Developer 🖥️
 -  Correo: mrcatgames.86@gmail.com ✉️
--  17 años
--  JavaScript, PHP, C#, Python
--  Diseñador Grafico
--  Modelador 3D
--  Animador 3D
+-  17 años 🐈
+-  JavaScript, PHP, C#, Python ⌨️
+-  Diseñador Grafico 🎨
+-  Modelador 3D 💻
+-  Animador 3D 🏃‍♂️
