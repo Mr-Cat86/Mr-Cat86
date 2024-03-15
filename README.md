@@ -7,7 +7,8 @@
 
 # ¡Hey Hola, soy MrCat! 🐱✨
   
-¡Bienvenido/a a mi perfil! Soy Elvin Mendoza, también conocido como MrCat, un apasionado desarrollador de videojuegos y programador web (backend). Aquí encontrarás un poco más sobre mí y mis proyectos. ¡Echa un vistazo!.
+¡Bienvenido/a a mi perfil! Soy Elvin Mendoza, también conocido como MrCat, un apasionado desarrollador de videojuegos y programador web (backend). Aquí encontrarás un poco más sobre mí y mis proyectos. ¡Echa un vistazo!
+
 *Una meta, una sola oportunidad y siempre alegre hasta el final.*
   
 "**Young blood made of gold, a mind you can't control**" - *Diviners - Feelings* ✨☁️🎡
