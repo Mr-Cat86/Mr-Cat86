@@ -1,4 +1,6 @@
-<img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" style="width:100px;">
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" style="width:300px;">
+</div>
 
 # ¡Hey Hola, soy MrCat! 🐱✨
 
