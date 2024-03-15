@@ -15,11 +15,17 @@
 
 
 
+
+
 ## Redes Sociales:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30"/>](https://www.instagram.com/mrcat_86/?igshid=ZmZhODViOGI%3D) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" width="30"/>](https://twitter.com/MrCat_86?t=ptSJqimSeIwxE7Ku56ywNg&s=09) 
 [<img src="https://cdn-icons-png.flaticon.com/512/3114/3114824.png" width="30"/>](https://bio.link/mrcat)
+
+
+
+
 
 ## Acerca de mí:
 -  Mexicano 😼
