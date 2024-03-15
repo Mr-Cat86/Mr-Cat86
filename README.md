@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" style="width:300px;">
-
-
-  # ¡Hey Hola, soy MrCat! 🐱✨
-  
-  ¡Bienvenido/a a mi perfil! Soy Elvin Mendoza, también conocido como MrCat, un apasionado desarrollador de videojuegos y programador web (backend). Aquí encontrarás un poco más sobre mí y mis proyectos. ¡Echa un vistazo!
-  
-  Me encanta en el mundo del desarrollo de videojuegos y todo lo relacionado con la tecnología.
-  Una meta, una sola oportunidad y siempre alegre hasta el final.
-  
-  "**Young blood made of gold, a mind you can't control**" - *Diviners - Feelings* ✨☁️
-
+  <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" style="width:200px;">
 </div>
+
+# ¡Hey Hola, soy MrCat! 🐱✨
+  
+¡Bienvenido/a a mi perfil! Soy Elvin Mendoza, también conocido como MrCat, un apasionado desarrollador de videojuegos y programador web (backend). Aquí encontrarás un poco más sobre mí y mis proyectos. ¡Echa un vistazo!
+  
+Me encanta en el mundo del desarrollo de videojuegos y todo lo relacionado con la tecnología.
+Una meta, una sola oportunidad y siempre alegre hasta el final.
+  
+"**Young blood made of gold, a mind you can't control**" - *Diviners - Feelings* ✨☁️
+
+
 
 ## Redes Sociales:
 
