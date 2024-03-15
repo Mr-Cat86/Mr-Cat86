@@ -1,8 +1,8 @@
 <div>
   <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" style="width:100px;">
-  <img src="https://media.tenor.com/xiBWmoYnt18AAAAj/ginger-cat-cat.gif" style="width:80px;">
-  <img src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" style="width:90px;">
-  <img src="https://media.tenor.com/Oc6hUz9-D4IAAAAj/ginger-cat-cat.gif" style="width:100px;">
+  <img src="https://media.tenor.com/xiBWmoYnt18AAAAj/ginger-cat-cat.gif" style="width:78px;">
+  <img src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" style="width:100px;">
+  <img src="https://media.tenor.com/Oc6hUz9-D4IAAAAj/ginger-cat-cat.gif" style="width:80px;">
 </div>
 
 # ¡Hey Hola, soy MrCat! 🐱✨
