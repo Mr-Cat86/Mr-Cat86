@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/Oc6hUz9-D4IAAAAj/ginger-cat-cat.gif" style="width:88px;">
 </div>
 
-# ¡Hey Hola, soy MrCat! 🐱✨
+# ¡Hey Hola! 🐱✨
   
 ¡Bienvenido/a a mi perfil! Soy Elvin Mendoza, también conocido como MrCat, un apasionado desarrollador de videojuegos indie y programador web (backend). Aquí encontrarás un poco más sobre mí y mis proyectos. ¡Echa un vistazo!
 
