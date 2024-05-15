@@ -28,5 +28,5 @@
 -  17 años 🐈
 -  JavaScript, PHP, C#, Python ⌨️
 -  Diseñador Grafico 🎨
--  Modelador 3D 💻
--  Animador 3D 🏃‍♂️
+-  Modelador 3D (Cinema 4D) 💻
+-  Animador 3D (Cinema 4D) 🏃‍♂️
